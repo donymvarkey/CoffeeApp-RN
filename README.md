@@ -1,5 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+## [Figma Design](https://www.figma.com/file/QGVYkGFREcwytyvdgQ89yx/Coffee-Shop-Mobile-App-Design-(Community)?type=design&node-id=202-483&mode=design&t=hGtU1vLpbyF8hyJW-0)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
